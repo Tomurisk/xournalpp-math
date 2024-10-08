@@ -14,7 +14,7 @@ name=Xournal++ & fav colors
 # Lango dydis
 
 Nepakeitus šių nustatymų, *Xournal++* langas neatsidaro maksimizuotas.
-Todėl reikia nueiti į `C:\Users\User\AppData\Local\xournalpp\settings.xml
+Todėl reikia nueiti į `C:\Users\User\AppData\Local\xournalpp\settings.xml`
 ir pakeisti numatytąsias reikšmes į šias:
 ```
   <property name="mainWndWidth" value="1920"/>
