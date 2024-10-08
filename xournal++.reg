@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\Applications\initiator.bat\DefaultIcon]
+@="C:\\Users\\User\\Programs\\Xournal++\\bin\\xournalpp.exe"
+
+; template
+[HKEY_CURRENT_USER\Software\Classes\.xopp\ShellNew]
+"FileName"="C:\\Users\\User\\Programs\\Xournal++\\Template.xopp"
+
+; file type name
+[HKEY_CURRENT_USER\Software\Classes\xopp_auto_file]
+@="Xournal++ document"
